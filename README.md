@@ -1,5 +1,7 @@
 # ai-project-manager
 
+få AI til å monitorere github prosjekt + repo og ta over lette oppgaver, lage tickets, prs, osv
+
 ### aaa
 
 - docker
